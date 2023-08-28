@@ -1,5 +1,3 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F700F1&lines=Hi+There!+👋;+I'm+Shaik+Afreen!;" /></a></h1>
 
 <h3 align="center">A passionate CS Student from India</h3>
@@ -14,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="[![My Skills](https://skillicons.dev/icons?i=C)](https://skillicons.dev)" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
 <h3 align="center">
