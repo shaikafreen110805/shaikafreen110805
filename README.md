@@ -19,7 +19,6 @@
 * 💻 Currently focusing on **Data Structures & Algorithms**
 * 🌐 Interested in **Web Development and Software Engineering**
 * 🚀 Building projects to strengthen my development and problem-solving skills
-* 📚 Preparing for **GATE CSE**
 * 💡 Always learning, building, and improving one problem at a time
 
 ---
