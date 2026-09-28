@@ -7,10 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shaikafreen110805@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shaikafreen110805%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ### 👩‍💻 About Me
