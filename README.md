@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 ### 👩‍💻 About Me
 
