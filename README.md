@@ -63,12 +63,6 @@ A real-time online bidding platform designed to provide a seamless auction exper
 
 **Tech:** React · Node.js · Express · MongoDB · Socket.IO · Redis
 
-#### 🔹 PhisGuard
-
-A cybersecurity-focused project designed to help identify and address phishing-related threats.
-
-**Focus:** Cybersecurity · Web Development
-
 #### 🔹 Browser Code Playground
 
 A browser-based coding environment that allows users to write and experiment with code directly through a web interface.
