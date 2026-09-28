@@ -103,14 +103,6 @@ A machine-learning based application for classifying messages as spam or legitim
 
 ---
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaikafreen110805&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌱 Currently Learning
 
 ```text
