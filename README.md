@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Engineering Student | DSA & Web Development</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaikafreen2005/">
+  <a href="https://www.linkedin.com/in/afreen2005/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shaikafreen110805@gmail.com">
